@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @15decades
+- 👋 Hi, I’m Ethan
 - 👀 I’m interested in web development, Javascript, React, CSS, and Python
 - 🌱 I’m currently learning JavaScript, CSS, and React
 - 💞️ I’m looking to collaborate on worthwhile projects
